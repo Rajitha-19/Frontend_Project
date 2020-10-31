@@ -18,7 +18,7 @@
 * <i> Next when you enter the name it will send a message to select or enter required product.</i>
 * <i> Enter required product</i>
 * <i> The bot will give you details to enter regarding to the product you entered.</i>
-* <i> **Details of the product** </i>
+* <i> **Details of the product** </i>/
      ->  Colours\
      ->  Brands\
      -> Features\
