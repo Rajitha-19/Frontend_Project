@@ -9,9 +9,9 @@
 
 # OBJECTIVE OF OUR CHATBOT 
 
-<i> This is a chatbot which helps you to give information of the required products in the online store.</i>
+<i> This is a chatbot which gives you information of the required products in the online store.(available products)</i>
 
-# What does our bot do?
+ # What does our bot do?
 
 * <i> When you open the **Smarthings bot** :</i>
 * <i> The bot greets you and the bot sends a message to enter the name.</i>
