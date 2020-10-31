@@ -23,7 +23,7 @@
      ->  Brands\
      -> Features\
      -> Demo of the product(demo)\
-     -> Buy now\
+     -> Buy now
  * Enter the above given details of product.
  * when you enter the details of the product then the bot will give information of the product.
  * If you want to buy the product then it will redirect to the product's website(when u enter buynow).
@@ -38,7 +38,7 @@
  
  https://www.youtube.com/watch?v=HWAkTKnB2ME&feature=youtu.be
  
- # click the below link to see the smarthings bot 👇🏻
+ # Click the below link to see the <i>Smarthings</i> bot 👇🏻
  # <i> Repl.it link</i>
  * https://helpfulskeletalset.rajitha19.repl.co/
    
