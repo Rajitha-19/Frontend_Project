@@ -26,7 +26,7 @@
      -> Buy now
  * Enter the above given details of product.
  * when you enter the details of the product then the bot will give information of the product.
- * If you want to buy the product then it will redirect to the product's website(when u enter buynow).
+ * If you want to buy the product then it will redirect to the product's website(when you enter buynow).
   
  
  # Block Diagram 👇🏻
@@ -51,5 +51,6 @@
  * https://www.w3schools.com/js/js_regexp.asp
  * https://www.w3schools.com/js/js_htmldom.asp
  * https://www.w3schools.com/js/js_ajax_intro.asp
+ * https://www.w3schools.com/css/css3_animations.asp
  
  
