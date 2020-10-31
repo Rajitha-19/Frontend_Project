@@ -37,3 +37,18 @@
  # DEMO OF OUR CHATBOT 👇🏻
  
  https://www.youtube.com/watch?v=HWAkTKnB2ME&feature=youtu.be
+ 
+ # click the below link to see the smarthings bot
+ # <i> Repl.it link</i>
+ https://helpfulskeletalset.rajitha19.repl.co/
+   
+   
+ # Online Resources
+ https://www.w3schools.com/js/js_functions.asp
+ https://www.w3schools.com/js/js_objects.asp
+ https://www.w3schools.com/js/js_events.asp
+ https://www.w3schools.com/js/js_strings.asp
+ https://www.w3schools.com/js/js_regexp.asp
+ https://www.w3schools.com/js/js_htmldom.asp
+ https://www.w3schools.com/js/js_ajax_intro.asp
+ https://www.w3schools.com/js/js_json_intro.asp
