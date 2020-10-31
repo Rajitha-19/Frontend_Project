@@ -1,0 +1,203 @@
+
+/body styling and animations/
+
+body{
+  background-image: url("https://static.independent.co.uk/s3fs-public/thumbnails/image/2019/10/24/22/istock-639223110-3.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  animation:imageanimation 7s infinite;
+}
+/body background image animation/
+
+@keyframes imageanimation
+{
+    30% {background-image: url("https://cdn4.vectorstock.com/i/1000x1000/22/28/computer-monitor-with-online-shopping-e-commerce-vector-4382228.jpg");}
+    40% {background-image: url("https://previews.123rf.com/images/betelgejze/betelgejze1505/betelgejze150500096/40392530-online-shopping-vector-background-flat-e-commerce-icons-and-symbols-abstract-design-concept-for-onli.jpg");}
+    60% {background-image: url("https://images.pexels.com/photos/230544/pexels-photo-230544.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");}
+    50% {background-image: url("https://images-na.ssl-images-amazon.com/images/I/61B08J461TL.jpg");}
+    70% {background-image: url("https://cdn5.vectorstock.com/i/1000x1000/95/59/colorful-poster-shopping-online-with-common-online-vector-15209559.jpg");}
+}
+
+.head{
+  background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQQjhyIZ16k-HpezXgLk_aEFA7eswWk_7zBQA&usqp=CAU") ; 
+  text-align:center;
+  width:50%;
+  border:2px white solid;
+  margin:initial;
+  border-radius:20%;
+  font-weight:bold;
+  color:whitesmoke;
+  margin-top:5%;
+ 
+}
+
+h2,h1,h3{
+  margin: 4%;
+}
+
+
+.main-heading{
+  font-family: fantasy;
+  background-color: brown;
+  font-size: xxx-large;
+}
+
+/* styling main-heading using animation*/
+
+span{
+  display:inline-block;
+  font-weight: bolder;
+  animation:mover 6s linear infinite;
+}
+
+
+@keyframes mover{
+  0%{
+    text-shadow:0 0 30px rgba(0,0,0,0);
+
+  }
+  50%{
+    text-shadow: 0 0 30px rgba(0,0,0,0.30);
+    transform:translateY(30px);
+  }
+  100%{
+    text-shadow:0 0 30px rgba(0,0,0,0);
+  }
+}
+
+
+span:nth-child(1)
+{
+  animation-delay:0.5s;
+}
+span:nth-child(2)
+{
+  animation-delay:1s;
+}
+span:nth-child(3)
+{
+  animation-delay:1.5s;
+}
+span:nth-child(3)
+{
+  animation-delay:2.5s;
+}
+span:nth-child(4)
+{
+  animation-delay:3s;
+}
+span:nth-child(5)
+{
+  animation-delay:3.5s;
+}
+span:nth-child(6)
+{
+  animation-delay:4s;
+}
+span:nth-child(7)
+{
+  animation-delay:4.5s;
+}
+span:nth-child(8)
+{
+  animation-delay:5s;
+}
+span:nth-child(9)
+{
+  animation-delay:6s;
+}
+
+/bot logo/
+
+.logo{
+  width:100px;
+  height:100px;
+  border-radius:50%;
+  margin:auto;
+  margin-top:20px;
+}
+
+.botmessage {
+  display: inline-block;
+  background:#9E9E9E;;
+  padding: 5px;
+  border-radius: 10px;
+  border-top-left-radius: 0px;
+  margin: 5px;
+  color: black;
+  border: 2px black solid;
+}
+
+.usermessage {
+  display: inline-block;
+  background: hsl(355deg 84% 33% / 71%);
+  padding: 11px;
+  border-radius: 5px;
+  border-top-right-radius: 0px;
+  margin-top: 40px;
+  border: 3px black solid;
+}
+
+/main-bot/
+
+#bot{
+  background-size: cover;
+  background:rosybrown;
+  padding: 10px;
+  border-radius: 10px;
+  width: 50%;
+  margin:initial;
+  margin-top:5%;
+  border: 4px solid black;
+  font-size: 20px;
+  font-weight: bold;
+  animation:imganimation 5s infinite;
+  animation-duration:6s; 
+}
+
+@keyframes imganimation{
+  20%  {background-color:palegreen;}
+  25%  {background-color:pink}
+  30%  {background-color: powderblue;}
+  40%  {background-color: grey;}
+  40% {background-color: khaki;}
+}
+
+.user_block {
+  text-align: right;
+}
+
+#input {
+  width: 100%;
+  border-color: brown;
+  box-sizing: border-box;
+  height:40px;
+  font-size: 15px; 
+}
+
+#hidden{
+  display: none;
+}
+
+iframe{
+  margin:10px;
+  width:300px;
+  height:300px;
+  display:block;
+}
+
+.botimg{
+  border-radius:20px;
+  width:50px;
+  height:50px;
+  transform: scaleX(-1);  
+  border:2px solid sienna;
+}
+
+.userimg{
+  border-radius:0%;
+  width:0px;
+  height:0px;
+  display:inline-block; 
+}
