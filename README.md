@@ -34,7 +34,7 @@
   ![SmartThings Bot](https://raw.githubusercontent.com/Rajitha-19/Frontend_Project/main/Smarthings.JPG)
  
  
- # Click the below image to watch demo of our <i>**CHATBOT**</i> 👇🏻
+ # Click the below image to watch demo of our **CHATBOT** 👇🏻
  
    [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/JQ2Ux4qH_i0/0.jpg)](https://www.youtube.com/watch?v=JQ2Ux4qH_i0)
  
