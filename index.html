@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title> Online Store </title>
+    <!--link to external style sheet-->
+    <link href="style.css" rel="stylesheet" type="text/css" />
+    <link rel="icon" type="image/png" href="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS-rEqRJhk9mtR6fv6W86YIxx3hraRtuSu8Zw&usqp=CAU">
+  </head>
+  <body>
+      <div class="head">
+        <h1>🖐🏻HELLO</h1>
+        <h1>....WELCOME TO....</h1>
+        <!--main heading in header part-->
+        <div class="main-heading">
+          <span> S </span>
+          <span> M </span>
+          <span> A </span>
+          <span> R </span>
+          <span> T </span>
+          <span> H </span>
+          <span> I </span>
+          <span> N</span>
+          <span> G </span>
+          <span> S </span>
+        </div>
+        <!-- about bot-->
+        <h3> I am a bot which helps you to give information of required
+              products in the online store..
+        </h3>
+      </div>
+      <!--main bot for communication-->
+      <div id="bot">
+        <!--messages-->
+        <div id="all_messages">
+          <div class="bot_block">
+            <img class="botimg" src="https://icon-library.com/images/online-shopping-icon/online-shopping-icon-8.jpg">
+            <div class="botmessage">
+              Heyy! I am a Bot.Glad to meet you! Please enter your name here👇🏻:)
+            </div>
+              <!-- hello -->
+          </div>
+        </div>
+        <!--bot and user's communication division-->
+        <div id="hidden">
+          <!--This is a bot messages section-->
+          <div id="bot_block" class="bot_block">
+            <img class="botimg" src="https://icon-library.com/images/online-shopping-icon/online-shopping-icon-8.jpg">
+            <div class="botmessage">
+              <!-- any message -->
+              hii...
+            </div>
+          </div>
+          <!--user reply division-->
+          <div id="user_block" class="user_block">
+            <img class="userimg" id="myphoto" align="right">
+            <div class="usermessage">
+              <!-- message-->
+              Hello..
+            </div>
+          </div>
+        </div>
+      <!--placeholder to enter user's message-->
+      <input id="input" placeholder = "Enter your message...." onkeyup="taketheinput(event)">
+      </div>
+    <!--link to external script file-->
+    <script src="script.js"></script>
+  </body>
+</html>
