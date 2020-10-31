@@ -29,8 +29,9 @@
  * If you want to buy the product then it will redirect to the product's website(when u enter buynow).
   
  
- # Block Diagram Of ChatBot
-  ![SmartThings Bot] (
+ # Block Diagram
+ 
+  ![SmartThings Bot](https://raw.githubusercontent.com/Rajitha-19/Frontend_Project/main/Smarthings.JPG)
  
  
 
