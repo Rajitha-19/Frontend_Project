@@ -24,9 +24,9 @@
      -> Features\
      -> Demo of the product(demo)\
      -> Buy now
- * <i>Enter the above given details of product.</i>
- *<i> when you enter the details of the product then the bot will give information of the product.</i>
- *<i> If you want to buy the product then it will redirect to the product's website(when you enter buynow).</i>
+* <i>Enter the above given details of product.</i>
+* <i> when you enter the details of the product then the bot will give information of the product.</i>
+* <i> If you want to buy the product then it will redirect to the product's website(when you enter buynow).</i>
   
  
  # Block Diagram 👇🏻
