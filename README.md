@@ -33,5 +33,6 @@
  
   ![SmartThings Bot](https://raw.githubusercontent.com/Rajitha-19/Frontend_Project/main/Smarthings.JPG)
  
+ # DEMO OF OUR CHATBOT
  
 
