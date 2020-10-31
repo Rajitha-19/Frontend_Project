@@ -29,10 +29,12 @@
  * If you want to buy the product then it will redirect to the product's website(when u enter buynow).
   
  
- # Block Diagram
+ # Block Diagram 👇🏻
  
   ![SmartThings Bot](https://raw.githubusercontent.com/Rajitha-19/Frontend_Project/main/Smarthings.JPG)
  
- # DEMO OF OUR CHATBOT
+ # DEMO OF OUR CHATBOT 👇🏻
+ 
+ [![SMARTTHING BOT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
  
 
