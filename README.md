@@ -36,7 +36,7 @@
  
  # DEMO OF OUR CHATBOT 👇🏻
  
- https://www.youtube.com/watch?v=HWAkTKnB2ME&feature=youtu.be
+ [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/JQ2Ux4qH_i0/0.jpg)](https://www.youtube.com/watch?v=JQ2Ux4qH_i0)
  
   # Click the below link to see the <i>Smarthings</i> bot 👇🏻
   # <i> Repl.it link</i>
