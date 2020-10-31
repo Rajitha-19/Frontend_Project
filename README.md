@@ -13,7 +13,7 @@
 
 # What does our bot do?
 
-* <i> When you open the Smarthings bot :</i>
+* <i> When you open the **Smarthings bot** :</i>
 * <i> The bot greets you and the bot sends a message to enter the name.</i>
 * <i> Next when you enter the name it will send a message to select or enter required product.</i>
 * <i> Enter required product</i>
